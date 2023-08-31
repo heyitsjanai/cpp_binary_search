@@ -1,6 +1,6 @@
 //============================================================================================
 //Name               : CS 300 Project Two
-//Author             : Janai Cano
+//Author             : @heyitsJanai
 //Version            : 1.0
 //Description        : Created a binary search tree that reads CSV file & creates ordered BST
 //============================================================================================
