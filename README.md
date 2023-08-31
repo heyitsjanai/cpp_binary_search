@@ -1,4 +1,5 @@
-# cs_305_mod8
+# SNHU CS 305 
+# Data Analysis & Design
 Portfolio submission for Data Analysis &amp; Design
 For this class, we had to create an analysis of the run-time and memory for different data structures.
 Our client was a university (ABCU) that needed help sorting and displaying course information in order of prerequisites.
