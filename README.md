@@ -1,6 +1,6 @@
 
 # Data Analysis & Design
-Given University Course .csv data, sort and create find prerequisites for each course implementing different algorithms.
+Given University Course .csv data, sort and find prerequisites for each course implementing most efficient algorithm.
 
 ## Learning Points
 - C++
